@@ -1,2 +1,4 @@
 # basic-frontend
-basic homepage using HTML and CSS
+build using HTML and CSS
+
+https://homemade-hottness.netlify.app
